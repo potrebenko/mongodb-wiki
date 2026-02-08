@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# NuGet
+*.nupkg
+nupkg/
+
+# IDE - JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# IDE - Visual Studio
+.vs/
+*.user
+
+# macOS
+.DS_Store
+appsettings.json

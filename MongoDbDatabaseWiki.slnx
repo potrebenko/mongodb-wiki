@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MongoDbWiki.Console\MongoDbWiki.Console.csproj" />
+  <Project Path="MongoDbWiki.Core.Tests/MongoDbWiki.Core.Tests.csproj" />
+  <Project Path="MongoDbWiki.Core/MongoDbWiki.Core.csproj" />
+  <Project Path="MongoDbWiki.HtmlConverter/MongoDbWiki.HtmlConverter.csproj" />
+  <Project Path="MongoDbWiki.HtmlConverter.Tests/MongoDbWiki.HtmlConverter.Tests.csproj" />
+</Solution>
